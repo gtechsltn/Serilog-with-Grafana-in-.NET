@@ -1,0 +1,10 @@
+url: http://localhost:3000/?orgId=1
+
+Default:
+user: admin
+pass: admin
+
+Changes Pass: Admin@123
+
+
+Grafana for Beginners: Use Cases and How to Install Grafana in 5 Minutes
